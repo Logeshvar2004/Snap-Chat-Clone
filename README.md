@@ -1,4 +1,4 @@
-## Snapchat clone
+##                                 Snapchat clone
 
 # Brief about the project:
 This project is a real-time deep learning application that utilizes computer vision technology to access the camera. By recognizing the user's face, it can overlay a filter based on the user's selection, providing a personalized experience.
